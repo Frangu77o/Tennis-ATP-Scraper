@@ -15,7 +15,7 @@ Questo progetto è uno scraper sviluppato in Node.js che utilizza la libreria Pu
 1. Clona il repository:
 
    ```bash
-   git clone https://github.com/tuo-username/tennis-atp-scraper.git
+   git clone https://github.com/Frangu77o/Tennis-ATP-Scraper.git
    cd tennis-atp-scraper
    ```
 
