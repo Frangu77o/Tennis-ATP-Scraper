@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "puppeteer": "^23.2.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-stealth": "^0.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
